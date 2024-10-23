@@ -1,5 +1,4 @@
-Weird ReadMe.md
-
+Trashy Readme.md
 [![Click Me](https://img.shields.io/badge/Click%20Me-007bff?style=for-the-badge)](https://www.example.com)
 
 #### Stats:
