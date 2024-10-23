@@ -1,6 +1,6 @@
 Weird ReadMe.md
 
-[![Button Text](https://img.shields.io/badge/Button%20Text-ColorCode?style=for-the-badge)](https://github.com/Birdo1221)
+[![Click Me](https://img.shields.io/badge/Click%20Me-007bff?style=for-the-badge)](https://www.example.com)
 
 #### Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Birdo1221&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
