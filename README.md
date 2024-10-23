@@ -1,4 +1,7 @@
 Weird ReadMe.md
+
+[![Button Text](https://img.shields.io/badge/Button%20Text-ColorCode?style=for-the-badge)](https://github.com/Birdo1221)
+
 #### Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Birdo1221&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Birdo1221&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
