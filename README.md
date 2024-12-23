@@ -16,6 +16,8 @@
 #### Frameworks & Libraries  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja-White.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
+[![AbuseIPDB Contributor Badge](https://www.abuseipdb.com/contributor/137416.svg)](https://www.abuseipdb.com/user/137416)
+
 
 #### Coffee ☕
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BirdoDonations) 
