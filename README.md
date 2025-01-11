@@ -7,7 +7,6 @@
 ![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=for-the-badge&logo=torproject&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%230E78D7.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 #### Stats:  
-![](https://github-readme-stats.vercel.app/api?username=Birdo1221&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Birdo1221&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 #### Programming Languages  
