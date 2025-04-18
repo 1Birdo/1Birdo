@@ -1,12 +1,12 @@
 <div align="center">
   
   ```
-  ██████╗ ██╗██████╗ ██████╗  ██████╗  
-  ██╔══██╗██║██╔══██╗██╔══██╗██╔═══██╗    
-  ██████╔╝██║██████╔╝██║  ██║██║   ██║     
-  ██╔══██╗██║██╔══██╗██║  ██║██║   ██║    
-  ██████╔╝██║██║  ██║██████╔╝╚██████╔╝       
-  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝        
+  ██████╗ ██╗██████╗ ██████╗  ██████╗
+  ██╔══██╗██║██╔══██╗██╔══██╗██╔═══██╗
+  ██████╔╝██║██████╔╝██║  ██║██║   ██║
+  ██╔══██╗██║██╔══██╗██║  ██║██║   ██║
+  ██████╔╝██║██║  ██║██████╔╝╚██████╔╝
+  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
   ```
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Securing+Networks;Building+Systems;Deploying+Solutions;Analyzing+Traffic;Hunting+Threats" alt="Typing SVG" /></a>
