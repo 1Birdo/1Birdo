@@ -15,7 +15,7 @@
 </div>
 
   [![GitHub followers](https://img.shields.io/github/followers/Birdo1221?style=flat)](https://github.com/Birdo1221)
-  [![BuyMeACoffee](https://img.shields.io/badge/Support-☕-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo)
+Click to [![BuyMeACoffee](https://img.shields.io/badge/Support-☕-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo) Me
 
 ## 📊 Stats
 <div align="center">
