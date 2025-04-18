@@ -89,19 +89,6 @@
 <tr>
 <td>
 
-### <img src="https://img.shields.io/badge/%F0%9F%8C%90-Web-purple"/> Web Technologies
-  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-</td>
-<td>
-
 ### <img src="https://img.shields.io/badge/%F0%9F%93%8A-Stats-brightgreen"/> GitHub Stats
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Birdo1221&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
