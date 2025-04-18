@@ -1,12 +1,12 @@
 <div align="center">
   
   ```
-  ██████╗ ██╗██████╗ ██████╗  ██████╗     ███╗   ██╗███████╗████████╗
-  ██╔══██╗██║██╔══██╗██╔══██╗██╔═══██╗    ████╗  ██║██╔════╝╚══██╔══╝
-  ██████╔╝██║██████╔╝██║  ██║██║   ██║    ██╔██╗ ██║█████╗     ██║   
-  ██╔══██╗██║██╔══██╗██║  ██║██║   ██║    ██║╚██╗██║██╔══╝     ██║   
-  ██████╔╝██║██║  ██║██████╔╝╚██████╔╝    ██║ ╚████║███████╗   ██║   
-  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝     ╚═╝  ╚═══╝╚══════╝   ╚═╝   
+  ██████╗ ██╗██████╗ ██████╗  ██████╗  
+  ██╔══██╗██║██╔══██╗██╔══██╗██╔═══██╗    
+  ██████╔╝██║██████╔╝██║  ██║██║   ██║     
+  ██╔══██╗██║██╔══██╗██║  ██║██║   ██║    
+  ██████╔╝██║██║  ██║██████╔╝╚██████╔╝       
+  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝        
   ```
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Securing+Networks;Building+Systems;Deploying+Solutions;Analyzing+Traffic;Hunting+Threats" alt="Typing SVG" /></a>
@@ -69,18 +69,6 @@
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) 
   ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white) 
 </details>
-
-## 🖲️ Projects
-
-<div align="center">
-  
-| Project | Description |
-|:-------:|:------------|
-| [🛡️ NetShield](https://github.com/Birdo1221/NetShield) | Advanced network monitoring & protection |
-| [🤖 BotMaster](https://github.com/Birdo1221/BotMaster) | Automated defensive botnet for vulnerability detection |
-| [🔐 SecureVault](https://github.com/Birdo1221/SecureVault) | End-to-end encrypted storage solution |
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birdo1221&theme=react-dark&hide_border=true&height=250" width="98%" />
