@@ -14,8 +14,16 @@
   ![Visitor Count](https://profile-counter.glitch.me/Birdo1221/count.svg)
 </div>
 
-  [![GitHub followers](https://img.shields.io/github/followers/Birdo1221?style=flat)](https://github.com/Birdo1221)
-Click to [![BuyMeACoffee](https://img.shields.io/badge/Support-☕-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo) Me
+
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Birdo1221/count.svg)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Birdo1221?style=social)](https://github.com/Birdo1221)
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo)
+  
+</div>
 
 ## 📊 Stats
 <div align="center">
