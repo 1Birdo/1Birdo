@@ -13,10 +13,10 @@
   
   ![Visitor Count](https://profile-counter.glitch.me/Birdo1221/count.svg)
 </div>
-
+<div align="center">
   [![GitHub followers](https://img.shields.io/github/followers/Birdo1221?style=flat)](https://github.com/Birdo1221)
   [![BuyMeACoffee](https://img.shields.io/badge/Support-☕-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo)
-  
+</div>
 ## 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birdo1221&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="355px" />
