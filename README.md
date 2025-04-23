@@ -9,9 +9,7 @@
   ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
   ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Security+Engineer;System+Architect;Network+Specialist;Infrastructure+Developer" alt="Typing SVG" /></a>
 </div>
-
 
 <div align="center">
   
