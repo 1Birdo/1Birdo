@@ -8,7 +8,7 @@
 - 🧑‍💻 Passionate about building secure infrastructure and efficient systems.  
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
 - 🔒 Exploring malware, security development, and automation.  
-- 📬 Contact: [admin@birdo.uk](mailto:admin@birdo.uk)
+- 📬 Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
 
 </div>
 
