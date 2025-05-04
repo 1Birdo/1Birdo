@@ -7,9 +7,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birdo1221&theme=react-dark&hide_border=true&height=250" width="98%" />
   
-  ```bash
-  # Connection secure. Signal established.
   ```
+   [Site]([https://pages.github.com/](https://birdo.uk/)).
+  ```
+
 </div>
 
 <div align="center">
