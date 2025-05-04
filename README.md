@@ -8,7 +8,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birdo1221&theme=react-dark&hide_border=true&height=250" width="98%" />
 
 
-   [Site]([https://pages.github.com/](https://birdo.uk/)).
+   [Site]([https://pages.github.com/](https://birdo.uk/)
 
 </div>
 
