@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 🧠 About Me
+##  About Me
 - 🧑‍💻 Passionate about building secure infrastructure and efficient systems.  
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
 - 🔒 Exploring malware, security development, and automation.  
