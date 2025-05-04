@@ -20,6 +20,4 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Birdo1221?style=social)](https://github.com/Birdo1221)
   
-  [![GitHub followers](https://img.shields.io/github/followers/Birdo1221?style=social)](https://github.com/Birdo1221)
-  
 </div>
