@@ -8,6 +8,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birdo1221&theme=react-dark&hide_border=true&height=250" width="98%" />
 
 
+[![Website](https://img.shields.io/badge/Website-birdo.uk-blue?logo=google-chrome)](https://birdo.uk)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Birdo1221)
 
 
