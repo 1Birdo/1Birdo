@@ -1,12 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
 <p align="center">🔧 Networking Enthusiast • 🛡️ Security Learner • 🧠 Always Curious</p>
 
+
+<div align="center">
+
 ## 🧠 About Me
 - 🧑‍💻 Passionate about building secure infrastructure and efficient systems.
 - 🌐 Running and managing personal services on `birdo.uk`.
 - 🔒 Exploring malware, security development, and automation.
 - 📬 Contact: admin@birdo.uk
 
+</div>
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-birdo.uk-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://birdo.uk)
