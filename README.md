@@ -5,12 +5,13 @@
 <div align="center">
 
 ## 🧠 About Me
-- 🧑‍💻 Passionate about building secure infrastructure and efficient systems.
-- 🌐 Running and managing personal services on `birdo.uk`.
-- 🔒 Exploring malware, security development, and automation.
-- 📬 Contact: admin@birdo.uk
+- 🧑‍💻 Passionate about building secure infrastructure and efficient systems.  
+- 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
+- 🔒 Exploring malware, security development, and automation.  
+- 📬 Contact: [admin@birdo.uk](mailto:admin@birdo.uk)
 
 </div>
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-birdo.uk-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://birdo.uk)
