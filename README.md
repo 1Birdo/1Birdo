@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
-<p align="center">🔧 Networking Enthusiast • 🛡️ Security Learner • 🧠 Always Curious</p>
-
 
 <div align="center">
 
