@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
 
-<div align="center">
-
 ##  About Me
 - 🧑‍💻 Passionate about building secure infrastructure and efficient systems.  
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
