@@ -17,14 +17,10 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/birdo)
 [![GitHub followers](https://img.shields.io/github/followers/1Birdo?style=for-the-badge&logo=github)](https://github.com/1Birdo?tab=followers)
 
-# 📊 GitHub Stats:
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=400" width="400"/>
 
-<!-- GitHub Streak -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=1birdo&theme=dark&hide_border=true&layout=compact" width="400"/>
 
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=400" width="400"/>
 
 [![](https://visitcount.itsvg.in/api?id=1birdo&icon=0&color=0)](https://visitcount.itsvg.in)
