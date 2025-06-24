@@ -9,6 +9,9 @@
 - 📬 Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
 
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Birdo&theme=react-dark&hide_border=true&height=250" width="98%" />
+</div>
 
 <div align="center">
 
@@ -23,12 +26,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=400" width="400"/>
 
-[![](https://visitcount.itsvg.in/api?id=1birdo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Birdo&theme=react-dark&hide_border=true&height=250" width="98%" />
-</div>
