@@ -22,7 +22,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![1birdo's Stats](https://github-readme-stats.vercel.app/api?username=1birdo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400px" />
 </div>
 
