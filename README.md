@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Birdo&theme=radical&hide_border=true&layout=compact" width="355px" />
+![1birdo's Stats](https://github-readme-stats.vercel.app/api?username=1birdo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Birdo&theme=radical&hide_border=true&layout=compact" width="400px" />
 </div>
 
