@@ -23,8 +23,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1birdo&theme=onedark&show_icons=true&hide_border=true&layout=compact" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1birdo&theme=onedark&show_icons=true&hide_border=true" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1birdo&theme=onedark&hide_border=true" width="400px" />
 </div>
 
 ---
