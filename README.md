@@ -1,10 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
+
 <div align="center">
+  
 ##  About Me
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
 - 🔒 Exploring malware, security development, and automation.  
 - 📬 Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
 </div>
+
+
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Birdo&theme=react-dark&hide_border=true&height=250" width="98%" />
 
