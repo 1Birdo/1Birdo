@@ -18,8 +18,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/1Birdo?style=for-the-badge&logo=github)](https://github.com/1Birdo?tab=followers)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=1birdo&theme=dark&hide_border=true)<br/>
 
 ---
