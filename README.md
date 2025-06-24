@@ -18,11 +18,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/1Birdo?style=for-the-badge&logo=github)](https://github.com/1Birdo?tab=followers)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact))<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=1birdo&theme=dark&hide_border=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=1birdo&theme=dark&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1birdo&icon=0&color=0)](https://visitcount.itsvg.in)
