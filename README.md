@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Birdo&theme=radical&hide_border=true&layout=compact" width="355px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Birdo&theme=radical&hide_border=true" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Birdo&theme=radical&hide_border=true&layout=compact" width="400px" />
 </div>
 
 ---
