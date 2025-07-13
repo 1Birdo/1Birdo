@@ -2,7 +2,6 @@
 
 <div align="center">
 
-##  About Me
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
 - 🔒 Exploring malware, security development, and automation.  
 - 📬 Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
