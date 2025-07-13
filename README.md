@@ -23,5 +23,5 @@
 
 </div>
 <div align="center">
-<img src="https://www.abuseipdb.com/contributor/137416.svg" width="20%"> 
+<img src="https://www.abuseipdb.com/contributor/137416.svg" width="40%"> 
 
