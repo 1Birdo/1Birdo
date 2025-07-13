@@ -22,3 +22,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=1birdo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=400" width="400"/>
 
 </div>
+
+<img src="https://www.abuseipdb.com/contributor/137416.svg" width="20%"> 
+
