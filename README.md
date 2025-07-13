@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
-<img src="https://www.abuseipdb.com/contributor/137416.svg" width="30%"> 
 
 <div align="center">
+<img src="https://www.abuseipdb.com/contributor/137416.svg" width="30%"> 
 
 ##  About Me
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
