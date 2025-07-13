@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
 
 <div align="center">
+
+  <img src="https://www.abuseipdb.com/contributor/137416.svg" width="98%"> 
+
   
 ##  About Me
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
@@ -10,8 +13,6 @@
 
 
 <div align="center">
-
-  <img src="https://www.abuseipdb.com/contributor/137416.svg" width="98%"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Birdo&theme=react-dark&hide_border=true&height=250" width="98%" />
 
 [![Website](https://img.shields.io/badge/Website-birdo.uk-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://birdo.uk)
