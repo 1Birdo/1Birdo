@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Birdo</h1>
-<img src="https://www.abuseipdb.com/contributor/137416.svg" width="30%"> 
 
 <div align="center">
 
