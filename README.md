@@ -10,7 +10,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Birdo&theme=react-dark&hide_border=true&height=250" width="98%" />
-<img src="https://www.abuseipdb.com/contributor/137416.svg" width="30%"> 
 
 [![Website](https://img.shields.io/badge/Website-birdo.uk-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://birdo.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-Birdo1221-181717?style=for-the-badge&logo=github)](https://github.com/1Birdo)
