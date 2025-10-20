@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Birdo</h1>
-
 <div align="center">
 
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
