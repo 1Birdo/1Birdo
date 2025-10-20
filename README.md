@@ -5,8 +5,9 @@
 
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
 - 🔒 Exploring malware, security development, and automation.
-  <div align="center">
+<div align="center">
 <img src="https://www.abuseipdb.com/contributor/137416.svg" width="40%"> 
 <div align="center">
+  
 - 📬 Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
 </div>
