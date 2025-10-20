@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/1Birdo?style=for-the-badge&logo=github)](https://github.com/1Birdo?tab=followers)
 
 
-</div>
+<div>
 - 🌐 Running and managing personal services on [**birdo.uk**](https://birdo.uk).  
 - 🔒 Exploring malware, security development, and automation.  
 - 📬 Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
