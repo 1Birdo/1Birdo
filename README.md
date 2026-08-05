@@ -8,7 +8,7 @@ Running and managing personal services on [**birdo.uk**](https://birdo.uk).
 <img src="https://www.abuseipdb.com/contributor/137416.svg" width="40%"> 
   <div align="center">
   
-  VPN: [**BirdoVPN**](birdo.app)
+  VPN: [**BirdoVPN**](https://birdo.app)
 </div>
 <div align="center">
   
