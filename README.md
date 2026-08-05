@@ -12,5 +12,5 @@ Running and managing personal services on [**birdo.uk**](https://birdo.uk).
 </div>
 <div align="center">
   
-  Contact: [**admin@birdo.uk**](mailto:admin@birdo.uk)
+  Contact: [**admin@birdo.uk**](mailto:github@birdo.uk)
 </div>
